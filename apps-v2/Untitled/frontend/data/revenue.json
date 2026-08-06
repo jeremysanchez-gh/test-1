@@ -1,0 +1,82 @@
+[
+  {
+    "month": "2025-08",
+    "mrr": 412000,
+    "new_mrr": 38000,
+    "expansion_mrr": 14500,
+    "contraction_mrr": 4200,
+    "churned_mrr": 9100
+  },
+  {
+    "month": "2025-09",
+    "mrr": 451200,
+    "new_mrr": 41200,
+    "expansion_mrr": 12800,
+    "contraction_mrr": 5100,
+    "churned_mrr": 11000
+  },
+  {
+    "month": "2025-10",
+    "mrr": 489100,
+    "new_mrr": 39600,
+    "expansion_mrr": 15300,
+    "contraction_mrr": 3800,
+    "churned_mrr": 8700
+  },
+  {
+    "month": "2025-11",
+    "mrr": 531500,
+    "new_mrr": 44100,
+    "expansion_mrr": 17200,
+    "contraction_mrr": 5900,
+    "churned_mrr": 12500
+  },
+  {
+    "month": "2025-12",
+    "mrr": 574400,
+    "new_mrr": 36800,
+    "expansion_mrr": 16100,
+    "contraction_mrr": 6400,
+    "churned_mrr": 13800
+  },
+  {
+    "month": "2026-01",
+    "mrr": 607100,
+    "new_mrr": 48500,
+    "expansion_mrr": 14700,
+    "contraction_mrr": 5200,
+    "churned_mrr": 11500
+  },
+  {
+    "month": "2026-02",
+    "mrr": 653600,
+    "new_mrr": 42100,
+    "expansion_mrr": 15900,
+    "contraction_mrr": 4800,
+    "churned_mrr": 12800
+  },
+  {
+    "month": "2026-03",
+    "mrr": 694000,
+    "new_mrr": 46300,
+    "expansion_mrr": 18200,
+    "contraction_mrr": 5700,
+    "churned_mrr": 14400
+  },
+  {
+    "month": "2026-04",
+    "mrr": 738400,
+    "new_mrr": 44700,
+    "expansion_mrr": 19100,
+    "contraction_mrr": 6200,
+    "churned_mrr": 13800
+  },
+  {
+    "month": "2026-05",
+    "mrr": 782200,
+    "new_mrr": 41500,
+    "expansion_mrr": 20300,
+    "contraction_mrr": 5400,
+    "churned_mrr": 13900
+  }
+]

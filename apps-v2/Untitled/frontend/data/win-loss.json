@@ -1,0 +1,22 @@
+[
+  { "id": "D-1001", "outcome": "won", "reason": "Product fit", "segment": "Enterprise", "competitor": "Competitor A", "amount": 185000 },
+  { "id": "D-1002", "outcome": "lost", "reason": "Price", "segment": "Mid-market", "competitor": "Competitor B", "amount": 74000 },
+  { "id": "D-1003", "outcome": "won", "reason": "Speed to value", "segment": "SMB", "competitor": "Competitor C", "amount": 28000 },
+  { "id": "D-1004", "outcome": "lost", "reason": "Missing feature", "segment": "Enterprise", "competitor": "Competitor A", "amount": 132000 },
+  { "id": "D-1005", "outcome": "won", "reason": "Executive alignment", "segment": "Enterprise", "competitor": "Competitor D", "amount": 210000 },
+  { "id": "D-1006", "outcome": "lost", "reason": "No decision", "segment": "SMB", "competitor": "Internal build", "amount": 24000 },
+  { "id": "D-1007", "outcome": "won", "reason": "Product fit", "segment": "Mid-market", "competitor": "Competitor B", "amount": 92000 },
+  { "id": "D-1008", "outcome": "lost", "reason": "Price", "segment": "Enterprise", "competitor": "Competitor D", "amount": 168000 },
+  { "id": "D-1009", "outcome": "won", "reason": "Speed to value", "segment": "Mid-market", "competitor": "Competitor C", "amount": 65000 },
+  { "id": "D-1010", "outcome": "lost", "reason": "Missing feature", "segment": "Mid-market", "competitor": "Competitor A", "amount": 88000 },
+  { "id": "D-1011", "outcome": "won", "reason": "Executive alignment", "segment": "Enterprise", "competitor": "Competitor B", "amount": 240000 },
+  { "id": "D-1012", "outcome": "lost", "reason": "No decision", "segment": "SMB", "competitor": "Competitor C", "amount": 32000 },
+  { "id": "D-1013", "outcome": "won", "reason": "Product fit", "segment": "SMB", "competitor": "Internal build", "amount": 36000 },
+  { "id": "D-1014", "outcome": "lost", "reason": "Price", "segment": "Mid-market", "competitor": "Competitor B", "amount": 81000 },
+  { "id": "D-1015", "outcome": "won", "reason": "Speed to value", "segment": "Enterprise", "competitor": "Competitor D", "amount": 195000 },
+  { "id": "D-1016", "outcome": "lost", "reason": "Missing feature", "segment": "SMB", "competitor": "Competitor A", "amount": 41000 },
+  { "id": "D-1017", "outcome": "won", "reason": "Product fit", "segment": "Mid-market", "competitor": "Competitor C", "amount": 99000 },
+  { "id": "D-1018", "outcome": "lost", "reason": "Price", "segment": "Enterprise", "competitor": "Competitor A", "amount": 154000 },
+  { "id": "D-1019", "outcome": "won", "reason": "Executive alignment", "segment": "Mid-market", "competitor": "Competitor B", "amount": 106000 },
+  { "id": "D-1020", "outcome": "lost", "reason": "No decision", "segment": "Enterprise", "competitor": "Internal build", "amount": 125000 }
+]
