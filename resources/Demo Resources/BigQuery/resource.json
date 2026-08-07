@@ -1,0 +1,23 @@
+{
+  "type": "bigquery",
+  "host": null,
+  "port": null,
+  "databaseName": null,
+  "databaseUsername": null,
+  "databasePassword": null,
+  "description": null,
+  "outboundRegion": null,
+  "ssl": null,
+  "editPrivilege": null,
+  "options": {
+    "version": "SqlQueryUnified",
+    "authentication": "serviceAccount",
+    "queryEditorModes": { "allowGuiMode": true, "allowSqlMode": true },
+    "serviceAccountKey": "",
+    "oauth2_callback_url": "OAUTH2_CALLBACK_URL"
+  },
+  "environment": "production",
+  "dynamicallyQueryable": false,
+  "uuid": "[demo resource] BigQuery",
+  "toolscriptVersion": "1.0.0"
+}
