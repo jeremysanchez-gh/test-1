@@ -5,11 +5,12 @@
   resourceType={null}
 >
   <RESTQuery
+    _additionalScope={["hello"]}
     allowedGroupIds={[]}
     allowedGroups={[]}
     events={[]}
     importedQueryDefaults={{ country_name: "united" }}
-    importedQueryInputs={{ country_name: "" }}
+    importedQueryInputs={{ country_name: "united" }}
     playgroundQueryId={0}
     playgroundQuerySaveId={0}
     privateParams={[]}
