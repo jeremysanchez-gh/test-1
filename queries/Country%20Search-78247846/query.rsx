@@ -5,6 +5,9 @@
   resourceType={null}
 >
   <RESTQuery
+    allowedGroupIds={[]}
+    allowedGroups={[]}
+    events={[]}
     importedQueryDefaults={{ country_name: "united" }}
     importedQueryInputs={{ country_name: "" }}
     playgroundQueryId={0}
