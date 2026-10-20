@@ -1,0 +1,103 @@
+{
+  "private": true,
+  "retool": {
+    "app": {
+      "uuid": "06bbfa50-a221-11f1-810e-cf8a831ef998",
+      "name": "Donor Management Dashboard",
+      "resourceReferencesByFile": {
+        "/backend/donors/approveSend.ts": [
+          {
+            "name": "ce527f57-cb9a-4549-b895-58dd91d50ace",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/donors/dismissDraft.ts": [
+          {
+            "name": "ce527f57-cb9a-4549-b895-58dd91d50ace",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/donors/getAtRisk.ts": [
+          {
+            "name": "ce527f57-cb9a-4549-b895-58dd91d50ace",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/donors/getCampaigns.ts": [
+          {
+            "name": "ce527f57-cb9a-4549-b895-58dd91d50ace",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/donors/getDonorGifts.ts": [
+          {
+            "name": "ce527f57-cb9a-4549-b895-58dd91d50ace",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/donors/getDonorOutreach.ts": [
+          {
+            "name": "ce527f57-cb9a-4549-b895-58dd91d50ace",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/donors/getDonors.ts": [
+          {
+            "name": "ce527f57-cb9a-4549-b895-58dd91d50ace",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/donors/getDrafts.ts": [
+          {
+            "name": "ce527f57-cb9a-4549-b895-58dd91d50ace",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/donors/getGiftsByMonth.ts": [
+          {
+            "name": "ce527f57-cb9a-4549-b895-58dd91d50ace",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/donors/getKpis.ts": [
+          {
+            "name": "ce527f57-cb9a-4549-b895-58dd91d50ace",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/donors/getPledges.ts": [
+          {
+            "name": "ce527f57-cb9a-4549-b895-58dd91d50ace",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/donors/getRiskBreakdown.ts": [
+          {
+            "name": "ce527f57-cb9a-4549-b895-58dd91d50ace",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/donors/saveDraft.ts": [
+          {
+            "name": "ce527f57-cb9a-4549-b895-58dd91d50ace",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ]
+      },
+      "appIdentifier": "donor-management-dashboard"
+    }
+  }
+}
