@@ -1,0 +1,34 @@
+<PlaygroundQuery
+  id="Untitled"
+  adhocResourceType={null}
+  data={null}
+  resourceType="retoolDb"
+>
+  <SqlQuery
+    _additionalScope={[]}
+    actionType=""
+    allowedGroupIds={[]}
+    allowedGroups={[]}
+    bulkUpdatePrimaryKey=""
+    dataArray={[]}
+    doNotThrowOnNoOp={false}
+    editorMode="sql"
+    enableBulkUpdates={false}
+    events={[]}
+    filterBy=""
+    importedQueryDefaults={{}}
+    importedQueryInputs={{}}
+    privateParams={[]}
+    query={include("./lib/Untitled.sql", "string")}
+    queryTimeout="100000"
+    recordId=""
+    records=""
+    retoolVersion="4.50.0"
+    runWhenModelUpdates={false}
+    showUpdateSetValueDynamicallyToggle={false}
+    tableName=""
+    updateSetValueDynamically={true}
+    warningCodes={[]}
+    watchedParams={[]}
+  />
+</PlaygroundQuery>
