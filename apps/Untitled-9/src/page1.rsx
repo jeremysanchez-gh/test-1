@@ -27,7 +27,7 @@
       defaultSelectedRow={{ mode: "index", indexType: "display", index: 0 }}
       emptyMessage="No rows found"
       enableSaveActions={true}
-      primaryKeyColumnId="d7ecd"
+      primaryKeyColumnId="d6f22"
       rowHeight="medium"
       showBorder={true}
       showFooter={true}
@@ -38,6 +38,7 @@
         id="d7ecd"
         alignment="right"
         format="decimal"
+        formatOptions={{ notation: "standard" }}
         groupAggregationMode="countDistinct"
         key="id"
         label="ID"
@@ -49,6 +50,7 @@
         id="d6f22"
         alignment="left"
         caption="{{ currentSourceRow.email }}"
+        editable={false}
         format="avatar"
         groupAggregationMode="none"
         key="email"
@@ -58,19 +60,6 @@
         size={250}
         summaryAggregationMode="none"
         valueOverride="{{ currentSourceRow.firstName }} {{ currentSourceRow.lastName }}"
-      />
-      <Column
-        id="4dd2d"
-        alignment="left"
-        format="tag"
-        formatOptions={{ automaticColors: true }}
-        groupAggregationMode="none"
-        key="role"
-        label="Role"
-        placeholder="Select option"
-        position="center"
-        size={72}
-        summaryAggregationMode="none"
       />
       <Column
         id="fc915"
@@ -170,5 +159,12 @@
         />
       </ToolbarButton>
     </Table>
+    <Module
+      id="test1"
+      margin="0"
+      name="Test"
+      overflowType="hidden"
+      pageUuid="62d8e77a-cca2-11f1-887e-db01cb052e69"
+    />
   </Frame>
 </Screen>
